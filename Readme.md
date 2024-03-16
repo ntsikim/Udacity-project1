@@ -41,4 +41,4 @@ This notebook showcases the analysis conducted in response to the questions outl
 
 Stay tuned for the project results and insights, as we aim to contribute valuable perspectives on fostering diversity and inclusion in the developer community.
 
-![{"HashCode":-1699574231,"Height":841.0,"Width":595.0,"Placement":"Footer","Index":"Primary","Section":1,"Top":0.0,"Left":0.0}](Aspose.Words.f7247213-7a6a-4e23-b94c-0640dde41ee4.001.png)
+
