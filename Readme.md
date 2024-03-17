@@ -8,7 +8,8 @@ This project leverages data from the Stack Overflow survey conducted in 2017 to 
 1. [Project Aim](#_project_aim)
 1. [File Description](#_file_descriptions)
 1. [Results](#_results)
-1. Licensing, Authors, and Acknowledgements
+1. [Licensing, Authors, and Acknowledgements](#_Licensing, Authors, and Acknowledgements)
+
 
 ## <a name="_ref161482661"></a><a name="_installation"></a> Installation
 
@@ -36,9 +37,24 @@ Correlation with Career Satisfaction: Explore the correlation between perception
 
 Exploratory Notebook:
 
-This notebook showcases the analysis conducted in response to the questions outlined in the title. It serves as an exploratory tool to delve into the dataset and extract insights relevant to the questions posed. It utilizes markdown cells to provide a structured walk-through of the analytical process, offering clear explanations and insights for each step.
+Three notebooks are provided to present the analysis conducted on the questions outlined in the title.
+Each notebook serves as an exploratory tool to delve into the dataset, focusing on the specific inquiries indicated in the notebook titles. 
+Markdown cells are utilized throughout the notebooks to guide through the analytical process and provide insights into individual steps taken during the exploration.
 ## <a name="_results"></a> Results
 
-Stay tuned for the project results and insights, as we aim to contribute valuable perspectives on fostering diversity and inclusion in the developer community.
+The main findings of the code can be found at the post available [here](https://medium.com/@ntsikelelomyesi43/3872c73a74a9).
+
+## <a name="_Licensing, Authors, and Acknowledgements"></a> Licensing, Authors, and Acknowledgements
+
+Please attribute the data to Stack Overflow when using it. The data's licensing and additional descriptive details can be accessed via the Kaggle link provided [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). 
+Apart from that, you're welcome to utilize the code provided here in any way you see fit!
+
+
+
+
+
+
+
+
 
 
