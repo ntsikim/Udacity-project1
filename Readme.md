@@ -29,7 +29,7 @@ This project leverages data from the Stack Overflow survey conducted in 2017 to 
 
 Importance Rating: Understand how developers rate the importance of diversity and inclusion in their workplace.
 
-Demographic Variances: Investigate potential differences in responses based on gender, race, or the highest education level of parents.
+Demographic Variances: Investigate potential differences in responses based on gender, and the highest education level of parents.
 
 Correlation with Career Satisfaction: Explore the correlation between perceptions of diversity and inclusion and overall career satisfaction among developers.
 
